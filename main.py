@@ -1,7 +1,7 @@
 from pet import Pet
 
 # Create a pet object
-my_pet = Pet("Max")
+my_pet = Pet("Tom")
 
 # Test the methods
 my_pet.eat()
