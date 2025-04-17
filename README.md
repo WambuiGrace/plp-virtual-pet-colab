@@ -53,4 +53,4 @@ This script demonstrates how to use the `Pet` class by:
 
 ## ✅ Sample Output
 Here’s a screenshot of the program's output:
- ![Sample Output](output.png)
+ ![Output screenshot](output.PNG)
